@@ -11,12 +11,22 @@ Quick Sort
 Merge Sort
 ```
 
+# Get Started 
+## Installation 
+
+```
+npm install
+npm start
+```
+
+# Contributors
+
 **The contributions in repository are maintained by :**
 
-***Ankur Srivastava***
+***Ankur Srivastava - 201B049***
 
-***Ashutosh Gupta***
+***Ashutosh Gupta - 201B070***
 
-***Arpit Singh***
+***Arpit Singh - 201B063***
 
-***Anuj Shukla***
+***Anuj Shukla - 201B055***
