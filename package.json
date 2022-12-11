@@ -1,0 +1,20 @@
+{
+    "name": "sorting-visualization",
+    "version": "1.0.0",
+    "description": "This is a sorting visualizer which gives experience of how sorting techniques work",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "Team 4 A's",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2",
+        "path": "^0.12.7"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    }
+}
